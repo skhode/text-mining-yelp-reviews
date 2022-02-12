@@ -25,8 +25,7 @@ library(writexl)
 
 **Reading the Data**
 ```{r warning=FALSE,message=FALSE, error=FALSE}
-#setwd("D:/Fall'21 - UIC/IDS 572 - Data Mining/Assignments/Assignment 4/yelpRestaurantReviews_sample_s21b")
-data<-read_csv2("yelpRestaurantReviews_sample_s21b.csv")
+data<-read_csv2("yelpRestaurantReviews_sample_dataset.csv")
 ```
 
 **Understanding the Data**
